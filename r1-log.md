@@ -13,3 +13,5 @@ Ran tests against the example tribute project in FCC to get the rubric I need to
 ### R1D3
 First worked on styling to center image and make it responsive to pass remaining 2 tests. Reset default margins/padding and added background colors to match FCC example. A bit more to finish styling so that this project is done. I'm not going to "over-cook" it. Make it pass tests, make it look good enough...and move on. 
 
+### R1D4
+Added margins and paddings, changed to open-sans font from Google, adjusted font-weight for headings. Once I finish styling for "wrap-up" section and footer at page bottom I'll be ready to pass all tests and move on to next project.
