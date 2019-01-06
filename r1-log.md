@@ -15,3 +15,6 @@ First worked on styling to center image and make it responsive to pass remaining
 
 ### R1D4
 Added margins and paddings, changed to open-sans font from Google, adjusted font-weight for headings. Once I finish styling for "wrap-up" section and footer at page bottom I'll be ready to pass all tests and move on to next project.
+
+### R1D5
+Completed FCC Tribute Page project. Passed all tests. https://codepen.io/vmvaughn/full/dwdYOz
