@@ -18,3 +18,6 @@ Added margins and paddings, changed to open-sans font from Google, adjusted font
 
 ### R1D5
 Completed FCC Tribute Page project. Passed all tests. https://codepen.io/vmvaughn/full/dwdYOz
+
+### R1D6
+Started FCC Survey Form project. Read tests. Observed behaviour of FCC example at different viewport sizes. I think I'll use flexbox to make my page respond like the example. Not going to be creative, just recreate the example and pass tests. Objective is to apply what I've learned to build a form and make it responsive with flexbox. 
