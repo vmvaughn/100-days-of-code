@@ -24,3 +24,6 @@ Started FCC Survey Form project. Read tests. Observed behaviour of FCC example a
 
 ### R1D7
 html added for form, input fields for name, email, age, and submit button. Passed all tests for html added so far. Total tests passed for this work session: 13 of 17.
+
+### R1D8
+html added for dropdown lists. Passed test for that. Total tests passed for this project so far: 14 of 17.
