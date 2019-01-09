@@ -21,3 +21,6 @@ Completed FCC Tribute Page project. Passed all tests. https://codepen.io/vmvaugh
 
 ### R1D6
 Started FCC Survey Form project. Read tests. Observed behaviour of FCC example at different viewport sizes. I think I'll use flexbox to make my page respond like the example. Not going to be creative, just recreate the example and pass tests. Objective is to apply what I've learned to build a form and make it responsive with flexbox. 
+
+### R1D7
+html added for form, input fields for name, email, age, and submit button. Passed all tests for html added so far. Total tests passed for this work session: 13 of 17.
