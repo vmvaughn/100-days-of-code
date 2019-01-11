@@ -27,3 +27,6 @@ html added for form, input fields for name, email, age, and submit button. Passe
 
 ### R1D8
 html added for dropdown lists. Passed test for that. Total tests passed for this project so far: 14 of 17.
+
+### R1D9
+html added for radio button set, checkbox set, and textarea for FCC Survey form. Passed 17 of 17 tests. Now time to style page...
