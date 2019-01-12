@@ -30,3 +30,6 @@ html added for dropdown lists. Passed test for that. Total tests passed for this
 
 ### R1D9
 html added for radio button set, checkbox set, and textarea for FCC Survey form. Passed 17 of 17 tests. Now time to style page...
+
+### R1D10
+Reinforced my learning of CSS Flexbox by reading this excellent Medium article https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184 and the awesome CSS Visual Dictionary 2nd Edition, both by https://twitter.com/js_tut 
