@@ -33,3 +33,6 @@ html added for radio button set, checkbox set, and textarea for FCC Survey form.
 
 ### R1D10
 Reinforced my learning of CSS Flexbox by reading this excellent Medium article https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184 and the awesome CSS Visual Dictionary 2nd Edition, both by https://twitter.com/js_tut 
+
+## R1D11
+Reinforced my learning of CSS Grid by redoing @freeCodeCamp challenges and reading CSS Visual Dictionary 2nd Edition by https://twitter.com/js_tut
