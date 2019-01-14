@@ -36,3 +36,6 @@ Reinforced my learning of CSS Flexbox by reading this excellent Medium article h
 
 ## R1D11
 Reinforced my learning of CSS Grid by redoing @freeCodeCamp challenges and reading CSS Visual Dictionary 2nd Edition by https://twitter.com/js_tut
+
+## R1D12
+Got CSS Grid working for basic layout. A bit more styling needed before I'm done with the FCC Survey form. 
