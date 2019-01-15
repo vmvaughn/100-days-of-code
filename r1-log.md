@@ -39,3 +39,6 @@ Reinforced my learning of CSS Grid by redoing @freeCodeCamp challenges and readi
 
 ## R1D12
 Got CSS Grid working for basic layout. A bit more styling needed before I'm done with the FCC Survey form. 
+
+## R1D13
+Styled columns more. Bit more to go to wrap-up FCC Survey form.
