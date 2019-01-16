@@ -42,3 +42,6 @@ Got CSS Grid working for basic layout. A bit more styling needed before I'm done
 
 ## R1D13
 Styled columns more. Bit more to go to wrap-up FCC Survey form.
+
+## R1D14
+Finished FCC Survey form layout using CSS Grid. Finished styling elements. Next up...add margins and media query/queries to make responsive.
