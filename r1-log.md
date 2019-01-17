@@ -45,3 +45,6 @@ Styled columns more. Bit more to go to wrap-up FCC Survey form.
 
 ## R1D14
 Finished FCC Survey form layout using CSS Grid. Finished styling elements. Next up...add margins and media query/queries to make responsive.
+
+## R1D15
+Added media query at max-device-width to make responsive. Added margins for header, description, and submit button. Still need to add margins and background colors for body and main to wrap up FCC Survey form. 
