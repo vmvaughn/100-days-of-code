@@ -51,3 +51,5 @@ Finished FCC Survey form layout using CSS Grid. Finished styling elements. Next 
 ##R1D16: Added margins and background colors to responsive design. Project complete and submitted for FCC cert.
 
 ##R1D17: Setup git local and remote repos for fcc-landing-page project.  Reviewed FCC example for content, layout, and responsiveness in prep to begin project. Reviewed tests to pass. Decided on content for page. GitHub repo here: https://github.com/vmvaughn/fcc-landing-page
+
+##R1D18: Added starting html. Passed 13 of 16 tests that were my objective for today. 
