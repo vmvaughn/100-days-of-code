@@ -54,4 +54,6 @@ Finished FCC Survey form layout using CSS Grid. Finished styling elements. Next 
 
 ##R1D18: Added starting html. Passed 13 of 16 tests that were my objective for today. 
 
-##R1D19: Added copy for the FCC Product Landing page.  
+##R1D19: Added copy for the FCC Product Landing page. 
+
+##R1D20: Found, added to html, and adusted size of logo and icons for FCC Product Landing page. 
