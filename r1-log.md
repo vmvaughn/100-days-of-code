@@ -57,3 +57,5 @@ Finished FCC Survey form layout using CSS Grid. Finished styling elements. Next 
 ##R1D19: Added copy for the FCC Product Landing page. 
 
 ##R1D20: Found, added to html, and adusted size of logo and icons for FCC Product Landing page. 
+
+##R1D21: Discovered that I needed to use <iframe> instead of <video> to imbed youtube video in FCC Product Landing page. Easy to do...just pick the youtube video you want, play it, pause it, then click "share" underneath and from there click "imbed". Copy the html snippet and paste it into your page's html. 
